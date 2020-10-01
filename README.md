@@ -1,3 +1,4 @@
 # Initialize-this-repository-with-a-Readme
-REMOTE
+Local
+
 Git/GitHub 5 : Merge & Conflits
